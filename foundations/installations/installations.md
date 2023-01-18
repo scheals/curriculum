@@ -249,7 +249,7 @@ If you would like to test out the version of Ubuntu on the flash drive, click 'T
 
 Installing Ubuntu is where the real changes start happening on your computer. The default settings are mostly perfect, but be sure to **"Install Ubuntu alongside Windows"** and change the allocated disk space allowed for Ubuntu to 30 GB (or more if you can).
 
-For step-by-step instructions, please follow this [installation guide](https://medium.com/linuxforeveryone/how-to-install-ubuntu-20-04-and-dual-boot-alongside-windows-10-323a85271a73) from the Dave’s RoboShack.
+For step-by-step instructions, please follow this [installation guide](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/) from It's FOSS.
 
 ### Intel RST (Rapid Storage Technology)
 
